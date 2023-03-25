@@ -1,4 +1,3 @@
-# terraform
 ### Terraform Commands
 ```
 terraform init
